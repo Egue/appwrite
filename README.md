@@ -1,4 +1,4 @@
-# appwrite
+# app_hannilsolutions
 
 A new Flutter project.
 
